@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillsRecommenderAPI", "SkillsRecommenderAPI\SkillsRecommenderAPI.csproj", "{748379F8-2294-424F-BEB2-DAD1E8DA1C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillsRecommenderAPITest", "SkillsRecommenderAPITest\SkillsRecommenderAPITest.csproj", "{B0DB082D-9E48-4066-AB1D-781E75F404E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748379F8-2294-424F-BEB2-DAD1E8DA1C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748379F8-2294-424F-BEB2-DAD1E8DA1C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748379F8-2294-424F-BEB2-DAD1E8DA1C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748379F8-2294-424F-BEB2-DAD1E8DA1C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DB082D-9E48-4066-AB1D-781E75F404E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DB082D-9E48-4066-AB1D-781E75F404E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DB082D-9E48-4066-AB1D-781E75F404E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DB082D-9E48-4066-AB1D-781E75F404E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622A687C-B370-49B5-AC88-985504B9041F}
+	EndGlobalSection
+EndGlobal
